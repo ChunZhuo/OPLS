@@ -6,5 +6,3 @@ ______
 $$\mathrm{E_{ab}} =\sum_{i}^{on A}\sum_{j}^{on B}[q_{i}q_{j}\frac{\mathrm{e}^2}{r_{ij}} + ]$$
 
 
-$$\begin{bmatrix} \frac{5}{6} & \frac{4}{3}\end{bmatrix}$$
-
